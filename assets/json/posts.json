@@ -1,0 +1,99 @@
+{
+ "data":[
+    {
+      "postType": 0,
+      "avatar" : "assets/images/omar.jpeg",
+      "user_name" : "Omar Maklad",
+      "body": "If you have power to make me happy do it",
+      "date" : "2 h",
+      "photos" : [],
+      "peopleReacted" : "medo and 20 others reacted",
+      "numReactions": "7 comments",
+      "comments" : [
+        {
+          "commentAvatar" : "assets/images/sam.jpg",
+          "commentBody": "good",
+          "CommentUserName" : "sam Lee"
+        }
+      ]
+    },
+    {
+      "postType": 0,
+      "avatar" : "assets/images/sarah.jpg",
+      "user_name" : "Sarah ",
+      "body": "Be your self",
+      "date" : "3 h",
+      "photos" : [],
+      "peopleReacted" : "medo and 20 others reacted",
+      "numReactions": "7 comments",
+      "comments" : [
+        {
+          "commentAvatar" : "assets/images/omar.jpeg",
+          "commentBody": "hhhhhhhhhh",
+          "CommentUserName" : "Omar Maklad"
+        }
+      ]
+    },
+    {
+      "postType": 1,
+      "avatar" : "assets/images/sam.jpg",
+      "user_name" : "Sam Lee",
+      "body": "New Car",
+      "date" : "5 h",
+      "photos" : [
+        "assets/images/3.jpg"
+      ],
+      "peopleReacted" : "medo and 20 others reacted",
+      "numReactions": "7 comments",
+      "comments" : [
+        {
+          "commentAvatar" : "assets/images/sarah.jpg",
+          "commentBody": "not fun",
+          "CommentUserName" : "Sarah"
+        }
+      ]
+    },
+    {
+      "postType": 1,
+      "avatar" : "assets/images/omar.jpeg",
+      "user_name" : "Ahmed",
+      "body": "First post",
+      "date" : "6 h",
+      "photos" : [
+        "assets/images/1.jpg"
+      ],
+      "peopleReacted" : "medo and 20 others reacted",
+      "numReactions": "7 comments",
+      "comments" : [
+        {
+          "commentAvatar" : "assets/images/sam.jpg",
+          "commentBody": "really",
+          "CommentUserName" : "Sam Lee"
+        }
+      ]
+    },
+    {
+      "postType": 2,
+      "avatar" : "assets/images/sam.jpg",
+      "user_name" : "Medo",
+      "body": "this post Body",
+      "date" : "7 h",
+      "photos" : [
+        "assets/images/1.jpg",
+        "assets/images/2.jpeg",
+        "assets/images/3.jpg"
+      ],
+      "peopleReacted" : "medo and 20 others reacted",
+      "numReactions": "7 comments",
+      "comments" : [
+        {
+          "commentAvatar" : "assets/images/sarah.jpg",
+          "commentBody": "play again",
+          "CommentUserName" : "Bella"
+        }
+      ]
+    }
+
+
+ ]
+}
